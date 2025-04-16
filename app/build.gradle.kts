@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.hardi.stateinjetpackcompose"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.hardi.stateinjetpackcompose"
